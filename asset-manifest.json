@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Food-Ordering-Site/static/css/main.79295843.chunk.css",
-    "main.js": "/Food-Ordering-Site/static/js/main.88c63d2c.chunk.js",
-    "main.js.map": "/Food-Ordering-Site/static/js/main.88c63d2c.chunk.js.map",
+    "main.js": "/Food-Ordering-Site/static/js/main.9ec1f427.chunk.js",
+    "main.js.map": "/Food-Ordering-Site/static/js/main.9ec1f427.chunk.js.map",
     "runtime-main.js": "/Food-Ordering-Site/static/js/runtime-main.87fbfe9d.js",
     "runtime-main.js.map": "/Food-Ordering-Site/static/js/runtime-main.87fbfe9d.js.map",
     "static/css/2.6293a573.chunk.css": "/Food-Ordering-Site/static/css/2.6293a573.chunk.css",
@@ -27,6 +27,6 @@
     "static/css/2.6293a573.chunk.css",
     "static/js/2.1bcab813.chunk.js",
     "static/css/main.79295843.chunk.css",
-    "static/js/main.88c63d2c.chunk.js"
+    "static/js/main.9ec1f427.chunk.js"
   ]
 }
